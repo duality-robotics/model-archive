@@ -1,0 +1,12 @@
+requirements.txt
+# YOLOv8 drone detection model
+# AGPL-3.0 License
+
+ultralytics==8.4.60
+torch>=2.0.0
+torchvision>=0.15.0
+opencv-python>=4.8.0
+Pillow>=9.0.0
+numpy>=1.23.0
+matplotlib>=3.7.0
+PyYAML>=6.0
