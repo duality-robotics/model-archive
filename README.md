@@ -1,2 +1,2 @@
 # model-archive
-An archive of AGPL models.  No longer used, but kept for posterity.
+This archive contains a few AGPL-covered models we have tried out.  We have since moved on to oher technologies, but we keep them here for posterity.
