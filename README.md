@@ -1,2 +1,2 @@
 # model-archive
-This archive contains a few AGPL-covered models we have tried out.  We have since moved on to oher technologies, but we keep them here for posterity.
+This archive contains a few AGPL-covered models we have tried out.  We have since moved on to other technologies, but we keep them here for posterity.
