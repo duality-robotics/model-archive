@@ -1,0 +1,5 @@
+This model was trained exclusively on synthetic data generated using Falcon, a high-fidelity simulation platform developed by Duality AI. The synthetic dataset was used to demonstrate the feasibility of using simulation-based data pipelines for visual defect detection, specifically wrinkle detection in products.
+
+The model is based on the YOLOv8 nano architecture (yolov8n.pt) and was fine-tuned using the Ultralytics framework with a single-class configuration targeting wrinkle defects.
+
+For questions about the simulation pipeline or dataset generation, refer to Duality AI and the Falcon platform.
